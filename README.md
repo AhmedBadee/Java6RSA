@@ -1,9 +1,9 @@
-###This is a simple demonstration of how to use RSA encryption/decryption algorithm in java
+This is a simple demonstration of how to use RSA encryption/decryption algorithm in java
 
-###Java Version
+Java Version
 1.6
 
-###maven version
+maven version
 3.2.5
 
-###example keys are found in `config.properties`
+example keys are found in `config.properties`
